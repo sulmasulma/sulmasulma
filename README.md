@@ -1,7 +1,5 @@
 <div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsulmasulma%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsulmasulma%2F?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 </div>
 
 ### 데이터 관련 잡다한 것들 좋아하는 사람
